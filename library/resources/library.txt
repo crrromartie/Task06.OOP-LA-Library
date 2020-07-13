@@ -1,0 +1,8 @@
+178 / Java / Effective Java / Bloch
+179 / Java / Thinking in Java / Ekkel
+180 / Python / Python for Everybody / Severance
+217 / Go / Lern Go / Evlampiy
+182 / C / Learn C the Hard Way / Shaw
+193 / C / Easy C / Akakov
+196 / JS / JS Think / Tyson
+199 / JSSS / Java_Script / Wolf

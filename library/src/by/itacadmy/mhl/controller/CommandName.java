@@ -1,0 +1,7 @@
+package by.itacadmy.mhl.controller;
+
+public enum CommandName {
+
+	LOGINATION, REGISTRATION, RELOGINATION, VIEW_ALL_CATALOG, FIND_BY_AUTHOR, FIND_BY_CATEGORY, ADD_NOTE, EDIT_NOTE, NO_SUCH_COMMAND;
+
+}

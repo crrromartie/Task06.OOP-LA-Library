@@ -1,0 +1,5 @@
+login / qwerty / Vasiliy / Pupkin / pup@mail.ru / USER
+login / ytrewq / Ivan / Ivanov / ivanov@mail.ru / ADMIN
+jmurik / asdfgr / Dimon / Gur / gur@mail.ru / USER
+login / zxcvbt / Ira / Durkina / dur@mail.ru / USER
+login / zxcbb / Poly / Edison / edison@mail.ru / USER
